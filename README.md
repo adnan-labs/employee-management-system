@@ -129,8 +129,8 @@ Create a `.env` file inside `backend/` with your local database configuration:
 PORT=5001
 DB_HOST=127.0.0.1
 DB_USER=root
-DB_PASSWORD=your_mysql_password
-DB_NAME=employee_management
+DB_PASSWORD=
+DB_NAME=
 DB_PORT=3306
 ```
 
